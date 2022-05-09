@@ -10,7 +10,6 @@ public class Room {
         this.costPerDay = costPerDay;
     }
 
-
     public void setRoomID(int newRoomID){
         this.roomID = newRoomID;
     }
